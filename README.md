@@ -1,4 +1,5 @@
-# Rock-Paper-Scissors-Game
+# Rock, Paper, Scissors Game
+
 
 
 Welcome to the Rock, Paper, Scissors Game project! This simple and interactive web-based game is built using HTML5, CSS3, and JavaScript. Test your luck and strategy against the computer in the classic Rock, Paper, Scissors duel.
@@ -23,4 +24,3 @@ Welcome to the Rock, Paper, Scissors Game project! This simple and interactive w
 
 3. **Score Updates:**
    - Track your score to see who is dominating the Rock, Paper, Scissors battlefield.
-     
